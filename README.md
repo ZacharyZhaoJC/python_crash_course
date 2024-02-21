@@ -2,6 +2,9 @@
 
 Welcome to my Python Learning Code Repository! This repository contains notes and project codes from my journey through learning Python.
 
+Text Book : Python Crash Course, 2nd Edition  
+Environment : MacOS 14.3.1, Python 3.12
+
 ## Part I: Basics
 
 ### Chapter 1: Getting Started
