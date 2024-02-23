@@ -1,6 +1,7 @@
 # Python Learning
 
-Welcome to my Python Learning Code Repository! This repository contains notes and project codes from my journey through
+Welcome to my Python Learning Code Repository! This repository contains notes
+and project codes from my journey through
 learning Python.
 
 Text Book : Python Crash Course, 3rd Edition  
@@ -72,6 +73,7 @@ Implementing tests to check your code's correctness.
 - Chapter 19: User Accounts
 - Chapter 20: Styling and Deploying an App
 
-This repository is a personal documentation of my learning process in the Python language. Feel free to explore and
+This repository is a personal documentation of my learning process in the
+Python language. Feel free to explore and
 learn with me!
 

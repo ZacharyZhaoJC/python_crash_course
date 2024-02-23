@@ -3,4 +3,5 @@
 # some Python today?”
 
 name = "zachary"
-print(f"Hello {name.title().strip()}, would you like to learn some python today?")
+print(
+    f"Hello {name.title().strip()}, would you like to learn some python today?")
