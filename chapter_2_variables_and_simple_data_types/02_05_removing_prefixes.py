@@ -8,5 +8,3 @@ nostarch_url = "https://nostarch.com"
 # Enter the name of the variable followed by a dot, and then the method removeprefix().
 # Inside the parentheses, enter the prefix you want to remove from the original string.
 print(nostarch_url.removeprefix("https://"))
-
-
